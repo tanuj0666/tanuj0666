@@ -19,15 +19,15 @@
 
 •⁠  ⁠🧐 I also dabble around *with Problem Solving*
 
-•⁠  ⁠👨‍💻 All of my projects are available at [GitHub](https://github.com/ADDYOURGITHUBID)
+•⁠  ⁠👨‍💻 All of my projects are available at [GitHub](https://github.com/tanuj0666)
 
-•⁠  ⁠📫 How to reach me: *EMAIL@gmail.com*
+•⁠  ⁠📫 How to reach me: *tanujbelwal07@gmail.com*
 
 •⁠  ⁠🤝 Lets Collaborate!
 
-  <div align="left"> <a href="https://www.linkedin.com/in/LINKEDIN/">
+  <div align="left"> <a href="https://www.linkedin.com/in/tanujbelwal0666/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="href="mailto:MAIL@gmail.com"">
+  <a href="href="mailto:tanujbelwal07@gmail.com"">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   
  </a>
